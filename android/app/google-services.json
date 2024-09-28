@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259351764684",
+    "project_id": "play-dca0e",
+    "storage_bucket": "play-dca0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259351764684:android:bd1265965fcac50e2cec69",
+        "android_client_info": {
+          "package_name": "com.play_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBYHtF0OXMnejrKX_sw-5Ejyr-TnayOdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
